@@ -129,7 +129,7 @@
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'G-S0FK2VC84S');
+  gtag('config', 'G-xxxxxxxxxx');
 
   const ga4ClientID = gtag('get', 'GA4_CLIENT_ID'); // Retrieve the GA4 client ID
 
